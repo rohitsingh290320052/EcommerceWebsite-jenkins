@@ -1,2 +1,4 @@
-# E-CommerceWebsite
- A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
+# JENKINS (CI/CD)
+Developed a fully functional online platform with continuous deployment as a hands-on project, utilizing Jenkins to automate
+CI/CD workflows. Configured build triggers, integrated version control for automated deployment, and optimized the delivery
+pipeline to ensure efficient and reliable releases.
